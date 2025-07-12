@@ -42,7 +42,7 @@ nav{
     padding-bottom: 150px;
 }
 .header-bg{
-    background-image: url(../imgs/Hero-bg.png);
+    background-image: url(imgs/Hero-bg.png)
 }
 .banner-hdg{
     font-weight: bold;

@@ -120,18 +120,8 @@ nav{
 }
 .img-3{
     display: block;
-    margin: 20px 150px 70px 150px;
-    border-radius: 30px;
-}
-.sec-4{
-    border-radius: 20px;
-    box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
-    margin: 80px 140px 116px 160px;
-}
-.sec-5{
-    display: flex;
-    gap: 300px;
     margin: 80px 180px 116px 200px;
+    border-radius: 20px;
 }
 .form-grp label{
     display: block;
